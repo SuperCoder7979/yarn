@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_5672 net/minecraft/client/realms/RealmsWorldType
+	FIELD field_27948 id I
+	FIELD field_27949 name Lnet/minecraft/class_2561;
+	METHOD <init> (Ljava/lang/String;IILnet/minecraft/class_2561;)V
+		ARG 3 id
+		ARG 4 name
+	METHOD method_32506 getName ()Lnet/minecraft/class_2561;
+	METHOD method_32507 getId ()I
